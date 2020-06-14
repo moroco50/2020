@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 60а Окружности(попадание точки)", "3 60а Окружности(попадание точки)\3 60а Окружности(попадание точки).csproj", "{2AD8B797-8380-466F-A8D1-92AAB37F215C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD8B797-8380-466F-A8D1-92AAB37F215C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD8B797-8380-466F-A8D1-92AAB37F215C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD8B797-8380-466F-A8D1-92AAB37F215C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD8B797-8380-466F-A8D1-92AAB37F215C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A463A2D-CAC6-4054-B0D1-329F1208C57C}
+	EndGlobalSection
+EndGlobal

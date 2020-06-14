@@ -1,0 +1,13 @@
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\bin\Debug\netcoreapp3.1\1 Наибольшее произведение.exe
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\bin\Debug\netcoreapp3.1\1 Наибольшее произведение.deps.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\bin\Debug\netcoreapp3.1\1 Наибольшее произведение.runtimeconfig.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\bin\Debug\netcoreapp3.1\1 Наибольшее произведение.runtimeconfig.dev.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\bin\Debug\netcoreapp3.1\1 Наибольшее произведение.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\bin\Debug\netcoreapp3.1\1 Наибольшее произведение.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.AssemblyInfo.cs
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.genruntimeconfig.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\1 Наибольшее произведение\1 Наибольшее произведение\obj\Debug\netcoreapp3.1\1 Наибольшее произведение.csprojAssemblyReference.cache

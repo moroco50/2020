@@ -1,0 +1,13 @@
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\bin\Debug\netcoreapp3.1\4 119е.exe
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\bin\Debug\netcoreapp3.1\4 119е.deps.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\bin\Debug\netcoreapp3.1\4 119е.runtimeconfig.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\bin\Debug\netcoreapp3.1\4 119е.runtimeconfig.dev.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\bin\Debug\netcoreapp3.1\4 119е.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\bin\Debug\netcoreapp3.1\4 119е.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.AssemblyInfo.cs
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\4 119е\4 119е\obj\Debug\netcoreapp3.1\4 119е.genruntimeconfig.cache

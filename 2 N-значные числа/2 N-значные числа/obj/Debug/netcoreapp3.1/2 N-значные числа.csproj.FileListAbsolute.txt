@@ -1,0 +1,13 @@
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\bin\Debug\netcoreapp3.1\2 N-значные числа.exe
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\bin\Debug\netcoreapp3.1\2 N-значные числа.deps.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\bin\Debug\netcoreapp3.1\2 N-значные числа.runtimeconfig.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\bin\Debug\netcoreapp3.1\2 N-значные числа.runtimeconfig.dev.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\bin\Debug\netcoreapp3.1\2 N-значные числа.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\bin\Debug\netcoreapp3.1\2 N-значные числа.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.AssemblyInfo.cs
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\2 N-значные числа\2 N-значные числа\obj\Debug\netcoreapp3.1\2 N-значные числа.genruntimeconfig.cache

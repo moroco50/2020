@@ -1,0 +1,13 @@
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\bin\Debug\netcoreapp3.1\12.exe
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\bin\Debug\netcoreapp3.1\12.deps.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\bin\Debug\netcoreapp3.1\12.runtimeconfig.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\bin\Debug\netcoreapp3.1\12.runtimeconfig.dev.json
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\bin\Debug\netcoreapp3.1\12.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\bin\Debug\netcoreapp3.1\12.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.AssemblyInfo.cs
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.dll
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.pdb
+C:\Users\danil\OneDrive\1 курс\практика\Код\12\12\12\obj\Debug\netcoreapp3.1\12.genruntimeconfig.cache

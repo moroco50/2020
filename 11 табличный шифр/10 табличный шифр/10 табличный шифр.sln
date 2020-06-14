@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 табличный шифр", "10 табличный шифр\10 табличный шифр.csproj", "{B24D3E5E-2958-4BBA-8AE6-B2F812CEB065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24D3E5E-2958-4BBA-8AE6-B2F812CEB065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24D3E5E-2958-4BBA-8AE6-B2F812CEB065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24D3E5E-2958-4BBA-8AE6-B2F812CEB065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24D3E5E-2958-4BBA-8AE6-B2F812CEB065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4BC9A6-7C79-4BD5-8B03-A0AE5E9D35D5}
+	EndGlobalSection
+EndGlobal

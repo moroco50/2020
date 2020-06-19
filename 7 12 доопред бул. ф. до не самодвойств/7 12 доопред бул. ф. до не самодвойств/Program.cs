@@ -43,6 +43,7 @@ namespace _7_12_доопред_бул._ф._до_не_самодвойств
                         ok = false;
                         Console.Write("f(" + Convert.ToString(x, 2).PadLeft(3, '0') + ") = ");
                     }     
+
                     if (ok || ok1)
                     {
                         mas[i] = Convert.ToInt32(s);
@@ -64,37 +65,47 @@ namespace _7_12_доопред_бул._ф._до_не_самодвойств
             int k = 0;
             for (int i = 0; i < 4; i++)
             {
-                if (mas[i] == mas[i + 4]) k++;
+                if (mas[i] == mas[mas.Length-i-1]) k++;
+                
             }
+
             if (k == 4) Console.WriteLine("Вы ввели определенную самодвойсвенную функцию");
-            k = 0;
-
-            for (int i = 0; i < mas.Length; i++)
+            else
             {
-                if (mas[i]==2) k++;
-            }
+                k = 0;
+                int k1 = 0;
 
-            if (k == 0) Console.WriteLine("Вы ввели определенную не самодвойсвенную функцию");
+                for (int i = 0; i < mas.Length; i++)
+                {
+                    if (mas[i] == 2) k++;
+                    if (mas[i] == 1 || mas[i] == 0) k1++;
+
+                }
+
+                if (k == 0 && k1 != 0) Console.WriteLine("Вы ввели определенную не самодвойсвенную функцию");
+            }
 
             for (int i = 0; i < mas.Length / 2; i++)
             {
-                if (mas[i] == 2 && mas[i + 4] != 2)
+
+                if (mas[i] == 2 && mas[mas.Length - i-1] != 2)
                 {
-                    if (mas[i + 4] == 1) mas[i] = 0;
-                    else mas[i] = 1;
+                    if (mas[mas.Length - i-1] == 1) mas[i] = 1;
+                    else mas[i] = 0;
                 }
-                if (mas[i] == 2 && mas[i + 4] == 2)
+
+                if (mas[i] == 2 && mas[mas.Length - i-1] == 2)
                 {
-                    mas[i] = 0; mas[i+4] = 1;
+                    mas[i] = 1; mas[mas.Length - i-1] = 0;
                 }
             }
 
             for (int i = 3; i < mas.Length; i++)
             {
-                if (mas[i] == 2 && mas[i-4] != 2)
+                if (mas[i] == 2 && mas[mas.Length - i-1] != 2)
                 {
-                    if (mas[i] == 1) mas[i-4] = 0;
-                    else mas[i] = 1;
+                    if (mas[i] == 1) mas[mas.Length - i-1] = 1;
+                    else mas[i] = 0;
                 }
             }
 
@@ -105,7 +116,6 @@ namespace _7_12_доопред_бул._ф._до_не_самодвойств
                 Console.Write(mas[i] + " ");
             }
             Console.WriteLine();
-
         }
     }
 }
